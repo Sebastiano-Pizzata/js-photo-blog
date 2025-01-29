@@ -19,3 +19,9 @@ span{
 body{
     background-image: url(./assets_day1/img/cork.png);
 }
+
+.rotazione:hover{
+    scale: 1.2;
+    rotate: 20deg;
+    translate: 2rem;
+}
