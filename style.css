@@ -4,23 +4,24 @@
 /* font per le date */
 @import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@400..700&family=Sometype+Mono:ital,wght@0,400..700;1,400..700&display=swap');
 
-header{
+header {
     background-image: url(./assets_day1/img/wall.png);
 }
 
-h1,p{
-    font-family: Edu Tas Beginner;
+h1,
+p {
+    font-family: "Edu Tas Beginner", sans-serif;
 }
 
-span{
-    font-family: Sometype Mono;
+span {
+    font-family: "Sometype Mono", sans-serif;
 }
 
-body{
+body {
     background-image: url(./assets_day1/img/cork.png);
 }
 
-.rotazione:hover{
+.rotazione:hover {
     scale: 1.2;
     rotate: 20deg;
     translate: 2rem;
